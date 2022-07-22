@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Replace Tire",
+        "price": 2000,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus eos repellendus veniam illum optio, voluptatem ad porro dolorem officiis quo quam? Corrupti, in rem. Aspernatur blanditiis incidunt quos dolorem obcaecati.",
+        "time": 2,
+        "img": "https://i.ibb.co/jD3Dj05/jimmy-nilsson-masth-FHrx-SBf-Nz-Lw-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Oil Changing",
+        "price": 45000,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus eos repellendus veniam illum optio, voluptatem ad porro dolorem officiis quo quam? Corrupti, in rem. Aspernatur blanditiis incidunt quos dolorem obcaecati.",
+        "time": 3,
+        "img": "https://i.ibb.co/TbsFcYp/sten-rademaker-UZUzv-JEv-Kn-I-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bolto Replace",
+        "price": 21500,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus eos repellendus veniam illum optio, voluptatem ad porro dolorem officiis quo quam? Corrupti, in rem. Aspernatur blanditiis incidunt quos dolorem obcaecati.",
+        "time": 5,
+        "img": "https://i.ibb.co/Jnhd8BS/jimmy-nilsson-masth-j-L9zfz-TVSw-Y-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Color car",
+        "price": 4164,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus eos repellendus veniam illum optio, voluptatem ad porro dolorem officiis quo quam? Corrupti, in rem. Aspernatur blanditiis incidunt quos dolorem obcaecati.",
+        "time": 1,
+        "img": "https://i.ibb.co/MM59STz/oziel-gomez-O255-DOFra-Ac-unsplash.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Car Washing",
+        "price": 2048,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus eos repellendus veniam illum optio, voluptatem ad porro dolorem officiis quo quam? Corrupti, in rem. Aspernatur blanditiis incidunt quos dolorem obcaecati.",
+        "time": 4,
+        "img": "https://i.ibb.co/rwfSm9f/alessio-lin-2n1-Sci-GY5d-I-unsplash.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Car repair",
+        "price": 3400,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus eos repellendus veniam illum optio, voluptatem ad porro dolorem officiis quo quam? Corrupti, in rem. Aspernatur blanditiis incidunt quos dolorem obcaecati.",
+        "time": 7,
+        "img": "https://i.ibb.co/9cKtCLP/vincent-guzman-l-Pm-Yxju-Awc-unsplash.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Stering service",
+        "price": 2480,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus eos repellendus veniam illum optio, voluptatem ad porro dolorem officiis quo quam? Corrupti, in rem. Aspernatur blanditiis incidunt quos dolorem obcaecati.",
+        "time": 8,
+        "img": "https://i.ibb.co/k4xYMrB/vincent-guzman-mhw1uf-S7-Jwk-unsplash.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Fuel Changing",
+        "price": 7400,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus eos repellendus veniam illum optio, voluptatem ad porro dolorem officiis quo quam? Corrupti, in rem. Aspernatur blanditiis incidunt quos dolorem obcaecati.",
+        "time": 9,
+        "img": "https://i.ibb.co/ZTHXPyD/vincent-guzman-JRUi-Pe-Na-L-s-unsplash.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Light setup",
+        "price": 4100,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus eos repellendus veniam illum optio, voluptatem ad porro dolorem officiis quo quam? Corrupti, in rem. Aspernatur blanditiis incidunt quos dolorem obcaecati.",
+        "time": 3,
+        "img": "https://i.ibb.co/VvV5ZTt/erik-mclean-3u-Hl-GFnz-PDU-unsplash-jpg.jpg"
+    }
+]
